@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.hero {
+  width: 100%;
+  background-image: url("./images/cookies.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 80vh;
+  margin: 0 auto;
+  position: relative;
+}
+h1 {
+  color: black;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 2.75em;
+  font-weight: 100;
+  margin: 0 auto;
+  text-align: center;
+}
+.whitebox {
+  position: relative;
+  top: 23vh;
+  background-color: white;
+  width: 40%;
+  height: 200px;
+  margin: 0 auto 0 auto;
+  padding: 40px;
+  box-shadow: ;
+}
+.whitebox p {
+  text-align: center;
+  font-size: 1.2em;
+}
+
+article {
+  margin: 0 auto;
+  width: 45vw;
+}
